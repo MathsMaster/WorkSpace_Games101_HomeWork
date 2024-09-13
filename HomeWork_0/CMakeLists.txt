@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 2.8.11)
 
 # 定义项目名称和版本
-project(HomeWork_0 VERSION 1.0)
+project(HomeWork_0)
 
 # 添加Eigen头文件路径
 find_package(Eigen3 REQUIRED)
