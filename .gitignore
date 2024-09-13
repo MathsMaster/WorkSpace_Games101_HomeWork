@@ -1,10 +1,10 @@
 #忽略相关的build目录
-HomeWork_0/build/
-HomeWork_1/build/
-HomeWork_2/build/
-HomeWork_3/build/
-HomeWork_4/build/
-HomeWork_5/build/
-HomeWork_6/build/
-HomeWork_7/build/
+HomeWork_0/build/*
+HomeWork_1/build/*
+HomeWork_2/build/*
+HomeWork_3/build/*
+HomeWork_4/build/*
+HomeWork_5/build/*
+HomeWork_6/build/*
+HomeWork_7/build/*
 
