@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <iostream>
-#include <Dense>
 #include <cmath>
+#include<eigen3/Eigen/Core>
+#include<eigen3/Eigen/Dense>
 
 using namespace std;
 using namespace Eigen;
